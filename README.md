@@ -1,9 +1,9 @@
 # flask-hello-world
 
 
-#### after cloning the repository
+# after cloning the repository
 
-###### Run these three commond
+## Run these three commond
 cd flask-hello-world
 docker build -t hello-world .
 
